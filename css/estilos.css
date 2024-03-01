@@ -17,5 +17,8 @@ body {
     background-position: center;
     animation: myAnim 2s ease 0s 1 normal forwards;
     }
-
+h1
+{
+	color: chartreuse;
+}
     
